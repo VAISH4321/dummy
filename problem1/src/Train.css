@@ -1,0 +1,11 @@
+.temp{
+    text-align: center;
+}
+.temp1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+    padding: 5px;
+    background-color: aqua;
+}
